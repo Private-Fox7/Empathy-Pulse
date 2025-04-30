@@ -1,1 +1,1 @@
-[]
+[{"id": "efd3beea-8186-483b-a097-3b66db53b345", "emp_id": "Jade0521", "dept": "Engineering", "timestamp": "2025-04-30T17:17:01.544719", "mood": "\ud83d\ude2b Terrible", "mood_score": 1, "work_satisfaction": 2, "team_satisfaction": 4, "management_satisfaction": 2, "feedback_text": "Worried about my job", "emotion": "fear", "emotion_confidence": 0.9799541234970093, "sentiment": "NEGATIVE", "sentiment_confidence": 0.9986261129379272}]
