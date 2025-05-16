@@ -79,8 +79,15 @@ Then open your browser and go to `http://localhost:8501`
 
 ## 📸 Screenshots
 
-![alt text](<Screenshot 2025-05-16 121040.png>) ![alt text](<Screenshot 2025-05-16 120713.png>) ![alt text](<Screenshot 2025-05-16 120754.png>) ![alt text](<Screenshot 2025-05-16 120843.png>) ![alt text](<Screenshot 2025-05-16 120918.png>) ![alt text](<Screenshot 2025-05-16 120938.png>) ![alt text](<Screenshot 2025-05-16 120949.png>) ![alt text](<Screenshot 2025-05-16 121002.png>) ![alt text](<Screenshot 2025-05-16 121019.png>)
-
+![Screenshot 2025-05-16 120713](https://github.com/user-attachments/assets/d5c1047d-8a81-47bb-b4e6-3c6b02ded965)
+![Screenshot 2025-05-16 120754](https://github.com/user-attachments/assets/cc57dcb5-4220-4af8-a6c6-8849a28fcd1a)
+![Screenshot 2025-05-16 120843](https://github.com/user-attachments/assets/661cff17-164d-45f6-ae68-73b7d78b8623)
+![Screenshot 2025-05-16 120918](https://github.com/user-attachments/assets/02103463-79ae-42c9-a4f4-0fcf139abdca)
+![Screenshot 2025-05-16 120938](https://github.com/user-attachments/assets/0ddc6503-cf16-40cf-8d81-2c79d06fa8f5)
+![Screenshot 2025-05-16 120949](https://github.com/user-attachments/assets/ea6acf84-c152-4f5b-a1c5-fba172a1ed6f)
+![Screenshot 2025-05-16 121002](https://github.com/user-attachments/assets/ef1fb7f7-4169-4100-adf7-c5be922fbb97)
+![Screenshot 2025-05-16 121019](https://github.com/user-attachments/assets/eb0c0c15-92a2-45b3-a083-7ee53d602eb2)
+![Screenshot 2025-05-16 121040](https://github.com/user-attachments/assets/665d3afe-2746-4a70-94aa-9b2a31ef807d)
 ---
 
 ## 🔮 Future Improvements
